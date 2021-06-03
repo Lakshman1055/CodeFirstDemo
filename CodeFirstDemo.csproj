@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccess\PlutoContext.cs" />
     <Compile Include="DataModels\Author.cs" />
     <Compile Include="DataModels\Course.cs" />
     <Compile Include="DataModels\CourseLevel.cs" />
